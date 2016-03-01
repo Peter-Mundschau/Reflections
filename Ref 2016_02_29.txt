@@ -1,0 +1,42 @@
+On this Leap Day in the year 2016, I took a big Leap into the world of Programming.
+
+	-We discussed what makes for a good coder.
+	-Computer Basics and Hardware and Devices
+	-Bits and Bytes (8 bits per byte - 1024 bytes per kilobyte)
+	-Converting Binary to Decimal and vice versa
+	-Conversion between; Decimal, Time ( in milliseconds), Octal, Hexidecimal and Binary
+	-Problem Solving Method
+		-Define the problem
+		-Find the cause of the problem
+		-Identify possible solutions
+		-Select an approach
+		-Implement the plan
+		-Verify your solutions
+	-Main Components of computers
+		-Capacitiors
+		-Resitors
+		-Transistors
+	-Built a shopping list of the Components of a $600.00 PC
+	-Concepts of Source Control
+		-Repository - One Per Project
+		-Revision
+		-Working Copy
+		-Branching
+		-Merging
+	-A diff - Tracks changes between versions
+	-Repository(Repo) - where project is stored
+	-Commit - Backup and Bookmark of your project
+	
+	-Working with github 
+		- Commit - is Local
+		- Pull - Update Local File
+		- Push - Update Remote Repo
+		- Status - State of you Directory
+		- Add - Stage your file
+		
+	- I realize on my first day I will need to familiarize myself with GitHub more.
+	
+	End 2016_02_29
+	
+		
+	
