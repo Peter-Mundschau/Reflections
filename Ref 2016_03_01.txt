@@ -9,6 +9,15 @@ Day 2 of BOOTCAMP ( My Fingers are Cramping)
 				pop3  - Port 110
 				FTP   - Port 21
 				Telnet- Port 23
+				
+			- There was also Mention of TFS Protocol or Team Foundation Server which can be used in conjunction with Git
+			  - TFS would use the following ports on a SQL Server;
+			  - QL Service (Database Engine)			 	Port 1433
+			  - SQL Browser Service (Database Engine)		Port 1434
+			  - SQL Server Analysis Services Redirector		Port 2382
+			  - SQL Server Analysis Services				Port 2383
+			  - SQL Server Reporting Services				Port   80
+							  
 			- Network Layer Protocols
 				TCP and UDP
 		- Communication Problems can Start at the Firewall
@@ -23,7 +32,29 @@ Day 2 of BOOTCAMP ( My Fingers are Cramping)
 			- We Created a Batch File to Display our IP Address
 			- We Created a Batch File to Restart the Computer after 10 seconds and display a message to the User
 			
-	----- Reflection Log Incomplete will finish at home ---- 
+	- HTML 		- Hypertext Markup Language - Not a programming Language, Uses TAGS and attributes
+	- CSS  		- Cascading Style Sheets - Templates used to apply to HTML for how elements will be displayed
+	- JavaScript- Scripting Language for Interaction with a Website.
+	
+	- Relative and Absolute References to css libraries.
+	
+	- Placing a COMMENT in HTML - <!-- 'your comment here' -->
+	
+	- HTML ignores WhiteSpace
+	
+	- In CSS - 'IDs' are used Once where as a 'Class' can be Reused
+	- Create a Website with 'Responsive Design'  - How it will appear on Different Size Screens.
+	
+	- Created my Own Website and published to github.
+	
+	
+	Lessons Learned - SYNTAX SYNTAX SYNTAX!!!!!!!!
+	
+					- IF you Commit a Repository w/o a Comment you will end up in "VIM"
+					- VIM is a Text Editor -
+					- To get out of the VIM interface you must Press (Esc),(:),(W), (Q) then (ENTER).
+	
+	
 
 	
 
