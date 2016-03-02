@@ -1,0 +1,30 @@
+Day 2 of BOOTCAMP ( My Fingers are Cramping)
+
+	-Today after the Morning Scrum We Discussed the Following
+		-Concepts of Networking Including;
+			- Application Layer Protocols
+				Http  - Port 80
+				Https - Port 443
+				Smtp  - Port 25
+				pop3  - Port 110
+				FTP   - Port 21
+				Telnet- Port 23
+			- Network Layer Protocols
+				TCP and UDP
+		- Communication Problems can Start at the Firewall
+
+		- File Extensions and File Associations and how to change them
+		- Command Line (Terminal on a Mac) vs Gui
+			- Command then the Argument
+			- Command line Help - Command /?
+			- Mac Terminal Help - Command /man
+
+		-Then we discussed Automating Tasks through Command Line ( Batch Files )
+			- We Created a Batch File to Display our IP Address
+			- We Created a Batch File to Restart the Computer after 10 seconds and display a message to the User
+			
+	----- Reflection Log Incomplete will finish at home ---- 
+
+	
+
+	
