@@ -54,7 +54,7 @@ Day 2 of BOOTCAMP ( My Fingers are Cramping)
 					- VIM is a Text Editor -
 					- To get out of the VIM interface you must Press (Esc),(:),(W), (Q) then (ENTER).
 	
--End Day 2
+-End Day 2 (Edit to Comment)
 
 	
 
