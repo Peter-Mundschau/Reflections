@@ -1,6 +1,48 @@
 Day 5 DevCodeCamp
 
-
+JAVA DAY 2
+		
+	- Functions
+		= small reusable pieces of code that should do only one task and be about 5 lines of code.  ( More than 5 Lines or 2 Functions/ Split into another Function)
+		
+	- Functions have a signature, accessibility level, return type, functions name and paramaters
+	
+		-Only the Signature is visible to the Outside World
+		-Parameters provide "outside" data to the function
+		-The Functions 'code block' is what is executed when the function is called
+		-'return' sends the result to the Caller
+	
+	- Void Functions
+		- functions that does not have to return a result
+		
+	-OBJECTS in JAVA 
+		- Much like the Real World 'objects' have properties
+			-properties describe the object - color, contents
+			-properties are also methods or what the object can do
+			
+		- Member Variables
+			- describe the object and keep track of attributes
+			
+		- Member Functions 
+			- give the object functionality
+			
+		- Constructors
+			- run anytime a new instance of a class is created
+			
+		- Instantiation
+			- Create an Instance using of a function by using 'new' functionName
+			
+		- Dot (.) notation
+			- to access member variables and functions
+				door.Open();
+				
+		
+	Worked on new JAVA assignments.
+			
+		
+	
+	
+		
 
 
 
