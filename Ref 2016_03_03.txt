@@ -1,0 +1,65 @@
+Day 4 DevCodeCamp
+
+Polished up some Html and CSS on  Personal Website
+
+Started Working with JAVA (Whole new Experience)
+	Variables in JAVA;	
+		- Variables are named (assigned space) in Memory - RAM
+		- Data assigned to a variable can be called upon later
+		- Variables should be descriptive Nouns (Good Descriptive Names)
+		- Case Sensitive
+		- Must start with a letter and can contain numbers and letters and some special characters.
+		- Best practice to declare variables before assigning values to them
+		
+		- Reserved Words that CAN'T be used as variables or identifiers
+			- assert break class continue case do else enum extends for if import new
+			private public protected return static super switch this
+			
+			
+		- Operators (Order of Operations is important)
+			+ - * / % = modulus(returns remainder) 
+			++  increment
+			--  decrement
+			
+		- Assignment Operators
+			=  +=  -=  *=  /=  %=  
+			
+		- Comparison Operators
+			==  !=  >  <  >=  <=
+			
+		- Data Types (8)
+			int myNumber = 88;	// 32 bit number
+			short myShort = 847; // 16 bit number
+			long myLong = 9898;  // 64 bit value
+			double myDouble = 7.3243;
+			float myFloat = 324.3f;
+			char myChar = 'y';
+			boolean myBoolean = "true" != null;
+			byte myByte	=127
+			
+		- Number Types
+			int Price;		float Number;		long Cost;		double someVar;	
+			
+		- Strings - Strings are immutable in JAVA
+		
+		- Boolean - True or False
+		
+		
+		
+		
+		- FLOW CONTROL
+			- if
+			- else if / else
+			- switch case  ( Used to check for a Single Variable (Like User Input))
+				- must have a default ( if there is NO case Match)
+				- Only ONE case is executed "break;" must be used at the end of each case
+				
+			
+			
+	Worked on JAVA Projects
+			
+
+
+
+
+END Day 4 2016_03_03
