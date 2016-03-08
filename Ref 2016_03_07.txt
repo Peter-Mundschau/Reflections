@@ -1,0 +1,46 @@
+Day 6 DevCodeCamp
+
+ Monday Week 2 Day 1
+ 
+		Turned in short Story with functions and classes ( Needs Work)
+		
+		Covered Loops in Java
+			For Loops -can be used when a known end point
+			For Each Loops -can be used across arrays
+			
+			While Loops - Looping while Condition is TRUE.	
+					    - Breakout of Loop when NOT True
+						
+			DO NOT USE doWhile Loops !!!
+			
+			
+			Java Inheritance vs Extends keyword
+				- Inheritance; process where one Class acquires fields and methods of another classes
+				- Subclass(derived class, child class) inherits properties from the SuperClass (base class, parent class)
+				
+			EXTENDS Key Word
+				- Use the 'Extends' keyword to inherit the properties of a class
+				Example-
+				
+				public class Animal{
+				}
+				public class Dog extends Animal{
+				}
+				
+				
+			- Constructor
+				- A subclass inherits all the members (fields and methods) from its superclass
+				-Constructors are not members, the are not inherited by subclasses
+				- Constructor from a Superclass can be Invoked from the Subclass
+				
+			- Super Keyword
+				- Used to diferntiate members of superclass from members of subclass if they have the same names
+				- Super keyword used to invoke the superclass constructor from the subclass
+				- Super() calss the parent constructor with no arguments
+				
+			Worked on Fizzbuzz project
+			Worked on Robots Project
+			
+
+
+END Day 6 2016_03_07
