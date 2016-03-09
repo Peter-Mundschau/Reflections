@@ -1,0 +1,22 @@
+Day 7 DevCodeCamp
+
+Tuesday Week 2 Day 2
+
+	More work needed on classes and inheritance and dependencies.
+	Worked on Robot which needs additional work
+	
+	Topics Covered today included Lists and Arrays
+		Lists can be changed
+		Arrays must stay the same.
+		
+	Worked on Team Project to create dice game.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ END Day 6 2016_03_07
