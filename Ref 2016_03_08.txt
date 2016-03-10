@@ -10,6 +10,16 @@ Tuesday Week 2 Day 2
 		Arrays must stay the same.
 		
 	Worked on Team Project to create dice game.
+	
+	
+	Stayed for Mentoring Session to cover what we have learned up to now.
+		-Arrays
+		-Lists
+		-Loops
+		-Classes and Inheritance
+		-Instantation
+		-Functions
+		-Conditionals (IF)
  
  
  
@@ -19,4 +29,4 @@ Tuesday Week 2 Day 2
  
  
  
- END Day 6 2016_03_07
+ END Day 67 2016_03_07

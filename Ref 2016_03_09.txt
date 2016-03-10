@@ -1,0 +1,15 @@
+Day 8 DevCodeCamp
+
+Tuesday Week 2 Day 2
+	- Most of day spent working on Dice Game.
+	
+	- Many issues with syncing to GitHub 
+		- Learned about GitIgnore
+		- I beleive one of the problems was that between the 3 of us trying to collaborate, we were all using different versions of Eclipse.
+		One person with Version 2, One person who's Platform changed from Version 1 to Version 2 in the middle of the exchange and 1 person
+		who still was on Version 1.
+		
+
+
+
+END Day 8 2016_03_07
