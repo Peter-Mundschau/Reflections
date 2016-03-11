@@ -1,6 +1,6 @@
 Day 8 DevCodeCamp
 
-Tuesday Week 2 Day 2
+Tuesday Week 2 Day 3
 	- Most of day spent working on Dice Game.
 	
 	- Many issues with syncing to GitHub 
@@ -12,4 +12,4 @@ Tuesday Week 2 Day 2
 
 
 
-END Day 8 2016_03_07
+END Day 8 2016_03_09
