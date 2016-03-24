@@ -1,0 +1,13 @@
+Week 4 Day 17 DevCodeCamp
+
+Week 2 of C#
+
+New projects including working with strings(manipulation) arrays and nested loops.
+
+Keys to understanding collections including iteration forwards and back
+	
+	
+
+
+
+END Day 17

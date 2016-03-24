@@ -1,0 +1,19 @@
+Week 4 Day 18 DevCodeCamp
+
+Week 2 of C#
+
+Continued work on Nested For loops and Lists.  
+
+Need to get a better understanding of Constructors and instantation only within the Class where it is needed.
+
+Objects are Nouns
+
+Methods are Verbs
+
+
+	
+	
+
+
+
+END Day 18
