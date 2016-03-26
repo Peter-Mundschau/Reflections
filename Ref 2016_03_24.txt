@@ -5,6 +5,8 @@ Week 2 of C#
 New Project Lemonade stand to be completed by next week Wednesday.
 
 a lot of elements to incorporate into this project.
+
+Still sttuggling with Instantiation and calling methods.
 	
 
 

@@ -1,0 +1,13 @@
+Week 4 Day 20 DevCodeCamp
+
+Week 2 of C#
+
+Worked all day on Lemonade Stand.  Even though this is a Small project there are a lot of Design and Flow considerations to be made.
+
+Will be working on it throughout the weekend with the hope of having user interface and inventory completed.
+	
+
+
+
+END Day 20
+END Week 4
