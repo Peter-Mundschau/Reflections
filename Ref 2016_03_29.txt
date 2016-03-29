@@ -1,0 +1,80 @@
+Week 5 Day 22 DevCodeCamp
+
+Working on Lemonade Stand
+Lecture on Software Testing;
+TESTING Software  https://en.wikipedia.org/wiki/Software_testing 
+	(YOU ARE NOT YOUR CODE.....)
+
+Proving your Functions do what they were intended to do.  ( Do not Test your own Code) - (Software Developers usually try Hard not to Break their own code )
+
+INPUT vs OUTPUT  (Comprehensive Testing)
+
+Even in an Addition Function  ( Best case scenario be able to test every possible # inputed	) not feasible - would take to long
+	- Don't push testing off to customers
+		- Customers now have the power of telling you what is wrong with your program.
+		- Don't let them create their own bugs
+		- Ruins Client relationshiop
+		
+	Break your Testing into Brackets for Test Cases  ( Test a small #, a Large #, a Negative #, a Zero, a String (Essentially variable types))
+	
+Proving you created what was intended;
+	- QA (Quality Assurance) - Functional End to End 
+		-
+	- SDT (Software Development Testing) - Automated Tests
+	
+		- WhiteBox Testing  (Having SEEN the CODE)
+		
+			- Passing in knowns ( Creates a situation of possible never exposing the unknowns)
+		- BlackBox Testing (Testing without knowing the Code)
+		
+		- Smoke Testing (Happy Path, Expected Case, Sanity Test) 
+			- Not a very good method of testing.
+			
+		Code Coverage ( Question on Interview )  80/20 Rule  80% of the Work is Covered 20% of the Time.
+			-Continuous Integration ( Insuring you stop problems before they happen)
+				- Continually commiting code and compiling to detect Errors early on.
+				
+			Unit Tests -( Testing the smallest atomic unit of Functionality )
+				- smallest Atomic unit (cannot be broken into any smaller units) 
+				- each Function should be able to be Tested for Functionality
+					- such as Testing every possible number entered into an Addition Function.
+					
+			Integration Testing -  Does the UI Layer Work with the Other Layers(Testing that Layers of Code work with other Layers of Code)
+			
+			Regression Testing - Whenever you submit code it doesn't break earlier code.
+				- Continuous INTEGRATION is Regression Testing.
+				
+			Cross Compatability - does it work on Multiple Platforms
+			
+			Performance Testing - (Time Performancce) 
+				-  It is up to the Customer Expectations (Based on Agreed upon terms of Business Agreement)
+				
+			Memory Testing - (How much Memory(Ram) does it use.
+			
+			Load Testing - Does it still Function properly when under Stress (ex; multiple users)
+			
+			Security or Pentration Testing - 
+			
+			Usability Testing (User Friendliness) - Users will do just about anything;
+			
+			Accessibility Testing ( Will it work with or comply to ADA standards)
+				- DOES it meet LEGAL Requirements
+			
+			
+		
+	- UNIT Tests	
+		- Arrange
+		- Act
+		- Assert
+		
+		
+		
+	- StateLess Programming 
+		- Try to use as FEW Members as possible
+
+
+Still absolutely struggling with Collections, Constructors 
+
+
+
+END Day 22
