@@ -1,0 +1,12 @@
+Week 5 Day 24 DevCodeCamp
+
+My initial design of Lemonade Stand fell apart at the end and was unable to make all the pieces communicate with each other.
+
+Lecture on design and planning was very informative and could see many of my mistakes in planning.
+
+Trying to correct my mistakes with proper instantiation.
+
+
+
+
+End DAY 24
