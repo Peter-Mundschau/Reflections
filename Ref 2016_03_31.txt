@@ -6,6 +6,10 @@ Lecture on design and planning was very informative and could see many of my mis
 
 Trying to correct my mistakes with proper instantiation.
 
+ISA -  Inheritance
+
+HASA - Gets the instantiation of the Class it has a.... !!!!!
+
 
 
 
