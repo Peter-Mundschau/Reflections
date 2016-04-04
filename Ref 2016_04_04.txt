@@ -1,0 +1,28 @@
+Week 6 Day 26 DevCodeCamp
+
+New Project with UML and Abstract Classes and Interfaces
+
+Humane Society Project.
+
+Topics covered today included;
+Solid Principals
+	- Single Responsibility Principle
+		-One Responsibility per Class or Function
+	- Open Closed Principle
+		- Should not need to change code to add new funtionality
+	- Liskov Substitution Principle
+		- child classes should work the same way as parent classes
+	- Interface Segregation Principle
+		- No Class should be forced to implement  methods it does not use.
+	- Dependency Inversion Principle
+		- lower level components should be dependent on Higher Level compenents - not vice versa
+		
+		
+Properties;
+	- Using the Get Accessor - Read Only
+	- Using the Set Accessor - Write Only
+	
+
+
+End Day 26
+End Week 6
