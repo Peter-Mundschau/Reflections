@@ -1,0 +1,19 @@
+Week 6 Day 27 DevCodeCamp
+
+Working on Humane Society Project
+	- 	Attempting to make effective use of Get and Set Principals, Abstract Classes and Solid Principals.
+	
+Lecture on;
+	-the IEnumerable principle using the yield keyword;
+	- Complex Constructs (Mutable and Immutable data types)
+	- Null Operators and uses.
+		- Nullable Types (?)
+		- Null Coelescing (??)
+		- Null Conditional (?.) or (?[)
+		- Ternary (?:) - Similar to IF Else
+		
+Beleive to have had a bit of Breakthrough on Collections and working with Collections.
+Some new principle to be applied to future projects.
+
+
+END Day 27
