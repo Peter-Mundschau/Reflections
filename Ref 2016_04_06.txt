@@ -1,0 +1,13 @@
+Week 6 Day 28 DevCodeCamp
+
+Continued work on Humane Society Project 
+
+Lecture on Generics <T> = Type of
+
+Lecture on Enums = iteration or sugar for #'s.
+	
+Lecture on FLags = 1 Bit (on or off)
+	- like a 'Buff' in a Video game.
+	
+END Day 28
+	
