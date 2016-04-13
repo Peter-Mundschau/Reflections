@@ -1,0 +1,10 @@
+Week 7 Day 32 DevCode Camp
+
+Humane Society Project Ended Up not compiling and went completely bellyup.
+
+Tried to correct the problem but could not figure out the answer creating the StackOverflow.
+
+started working on new problems with Custom Iterators and Overload Operators
+
+
+End Day 32
