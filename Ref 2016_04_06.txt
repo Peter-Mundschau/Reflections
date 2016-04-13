@@ -2,7 +2,7 @@ Week 6 Day 28 DevCodeCamp
 
 Continued work on Humane Society Project 
 
-Lecture on Generics <T> = Type of
+Lecture on Generics <T> = Type of (Template)
 
 Lecture on Enums = iteration or sugar for #'s.
 	
