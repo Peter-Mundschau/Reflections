@@ -1,0 +1,9 @@
+Week 8 Day 36 DevCodeCamp
+
+Additional Work Needed on Soda
+
+Lectures on Run Times and Performance Optimization Techniques;
+	- Time Complexity (Optimization of Algorithms)
+
+
+END Day 36
