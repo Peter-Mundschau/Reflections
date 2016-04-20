@@ -1,0 +1,7 @@
+Week 8 Day 37
+
+Additional work on Time Complexities and Data Structures 
+
+http://www.studytonight.com/data-structures/time-complexity-of-algorithms
+
+END Day 37

@@ -5,5 +5,7 @@ Additional Work Needed on Soda
 Lectures on Run Times and Performance Optimization Techniques;
 	- Time Complexity (Optimization of Algorithms)
 
+	
+Will be working in Teams of 4(Lee, Erick, Greg and myself as Team Leader Currently)
 
 END Day 36
